@@ -1,4 +1,4 @@
-import ScatterPlot3D from '@/components/ScatterPlot3D'
+import ScatterPlot3D from '@/components/ScatterPlot3DwithLeaders'
 
 
 

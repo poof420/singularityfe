@@ -1,0 +1,268 @@
+[
+    {
+        "id": 3,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": -1.307130528347833,
+        "umap_2": 1.2446440447654044,
+        "umap_3": -0.00778989706720612,
+        "content": "there's possibility And I mean come on. Its just people. (Wed) 12:19:37 No.1000681392 You're not wrong OP. Just don't show your abyss side",
+        "reasoning": "The input phrase has an informal, conversational tone and touches on themes of human nature and the idea of hiding one's true self. It seems to be part of an online discussion or forum post.",
+        "scores": {
+            "quirk": 8,
+            "coherence": 7,
+            "atmosphere": 6,
+            "sensory_focus": 2,
+            "narrative_pace": 4,
+            "contemporary_relevance": 8
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 6,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.11257134590830109,
+        "umap_2": -2.063997828534671,
+        "umap_3": -0.3605784646102359,
+        "content": "started with Gemini Promoted by Google Sports \u00b7 Trending Nutting 4,767 posts Trending Azuki 11.3K posts Sports \u00b7 Trending Dylan Crews 2,710",
+        "reasoning": "The input string appears to be a collection of trending topics or keywords, mostly related to sports, entertainment, or popular culture, and has been promoted by a major corporation. It presents a modern, dynamic set of topics but lacks coherence due to the random assortment of information.",
+        "scores": {
+            "quirk": 4,
+            "coherence": 7,
+            "atmosphere": 3,
+            "sensory_focus": 1,
+            "narrative_pace": 8,
+            "contemporary_relevance": 9
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 7,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": -0.19056857909475067,
+        "umap_2": 0.01569811148302902,
+        "umap_3": 1.8025855549744199,
+        "content": "1h \"how did you",
+        "reasoning": "The input phrase appears to be an incomplete question, possibly asking for an explanation or clarification on something. Due to its incomplete nature, the overall sense of the phrase remains ambiguous, leaving room for interpretation.",
+        "scores": {
+            "quirk": 2,
+            "coherence": 6,
+            "atmosphere": 3,
+            "sensory_focus": 6,
+            "narrative_pace": 4,
+            "contemporary_relevance": 7
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 8,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.6569326988288333,
+        "umap_2": -0.8155392046485628,
+        "umap_3": 1.4967898854187558,
+        "content": "@berserksouls 1h Ben Roy @benroy__ 1h how did you get to where you are in the industry? >literally spending 8 hours a day making jokes in group chats on telegram for 3 years to make",
+        "reasoning": "The input string appears to be an informal conversation on social media where one person asks about another's career progress, and the response is a casual and humorous anecdote about spending an excessive amount of time making jokes in group chats.",
+        "scores": {
+            "quirk": 8,
+            "coherence": 3,
+            "atmosphere": 2,
+            "sensory_focus": 6,
+            "narrative_pace": 4,
+            "contemporary_relevance": 8
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 9,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.9613131156989505,
+        "umap_2": -1.774676644376346,
+        "umap_3": 0.6577927597931454,
+        "content": "keyboard shortcuts, press question mark View keyboard shortcuts Messages For you Following Ether Orc Community TWICRATE Forsaken Lands Keep NFTs Weird posted No file chosen",
+        "reasoning": "The input string appears to be a collection of unrelated words and phrases, possibly from a social media platform or online community. It contains references to keyboard shortcuts, messages, and NFTs, suggesting a modern, tech-savvy context. However, the lack of coherence and clarity makes it challenging to discern a clear message or narrative.",
+        "scores": {
+            "quirk": 7,
+            "coherence": 8,
+            "atmosphere": 6,
+            "sensory_focus": 1,
+            "narrative_pace": 8,
+            "contemporary_relevance": 9
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 10,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.8595820537635257,
+        "umap_2": 1.6818570856537138,
+        "umap_3": -0.1842554083892276,
+        "content": "a day for 16 years and 240 days. The SEC's action against @opensea just shows that @brianlfrye and I are doing the right thing in taking the fight to",
+        "reasoning": "The input string appears to be a part of a tweet discussing the SEC's action against OpenSea, and the author feels vindicated in their efforts to challenge this action. It is written in an informal, conversational tone and has a sense of conviction and assertiveness.",
+        "scores": {
+            "quirk": 6,
+            "coherence": 3,
+            "atmosphere": 7,
+            "sensory_focus": 2,
+            "narrative_pace": 6,
+            "contemporary_relevance": 9
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 11,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": -0.8107923396996091,
+        "umap_2": -1.1485350962196077,
+        "umap_3": 0.08093304719243744,
+        "content": "crypto bro version of 5 beats a day for 3 summers innit woc reposted Pok\u00e9monHttps @PokemonHttps 7h life goals \ud83c\udf33 KucingBertweet \ud83c\udf49 @KucingBertweet",
+        "reasoning": "The input string appears to be a casual, social media-style post that humorously compares a 'crypto bro' version of a workout routine to a viral tweet about Pok\u00e9mon, with a tone that is lighthearted and playful.",
+        "scores": {
+            "quirk": 9,
+            "coherence": 7,
+            "atmosphere": 2,
+            "sensory_focus": 5,
+            "narrative_pace": 6,
+            "contemporary_relevance": 9
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 12,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.7015129200049808,
+        "umap_2": -0.3409075375114168,
+        "umap_3": -0.22829501543726227,
+        "content": "a day for 3 summers innit woc reposted Pok\u00e9monHttps @PokemonHttps 7h life goals \ud83c\udf33 KucingBertweet \ud83c\udf49 @KucingBertweet 23h",
+        "reasoning": "The input string seems to be a casual, conversational social media post, mentioning Pok\u00e9mon, summers, and life goals. It includes user handles, timestamps, and informal language, which suggests a modern and relaxed context.",
+        "scores": {
+            "quirk": 8,
+            "coherence": 7,
+            "atmosphere": 3,
+            "sensory_focus": 2,
+            "narrative_pace": 6,
+            "contemporary_relevance": 9
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 2,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": -0.22309960212026336,
+        "umap_2": 1.3783618648137366,
+        "umap_3": 1.220122528927667,
+        "content": "witnesses, after he argued with his father in the garden of his father's office, he had ran into the office of his father and took his father's killed",
+        "reasoning": "The phrase describes a disturbing and intense scene where an individual, after arguing with his father, commits a violent act. The narrative jumps abruptly from a disagreement to a fatal outcome, suggesting an escalation of events.",
+        "scores": {
+            "quirk": 2,
+            "coherence": 6,
+            "atmosphere": 9,
+            "sensory_focus": 3,
+            "narrative_pace": 8,
+            "contemporary_relevance": 4
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 4,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.6182798019477298,
+        "umap_2": -1.3345728750739778,
+        "umap_3": -1.3412776461669376,
+        "content": "What else from the '90s should make a comeback? Gradio @Gradio",
+        "reasoning": "The phrase appears to be a lighthearted and casual inquiry about reviving trends from the 1990s, possibly indicating nostalgia and interest in retro culture.",
+        "scores": {
+            "quirk": 6,
+            "coherence": 2,
+            "atmosphere": 3,
+            "sensory_focus": 5,
+            "narrative_pace": 6,
+            "contemporary_relevance": 7
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 1,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": -1.5549521573952267,
+        "umap_2": 0.382678366133145,
+        "umap_3": 0.903925372021539,
+        "content": "18:22:47 No.1000683251 this guy online and",
+        "reasoning": "The input string seems to be a snippet from an online forum, likely referring to an individual. It is too brief to infer any strong emotions or detailed context, but the text appears casual and informal.",
+        "scores": {
+            "quirk": 7,
+            "coherence": 6,
+            "atmosphere": 4,
+            "sensory_focus": 1,
+            "narrative_pace": 2,
+            "contemporary_relevance": 8
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 5,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": -0.6729114183357785,
+        "umap_2": -0.2116142149482454,
+        "umap_3": -1.0012786856719424,
+        "content": "bro version of 5 beats a day for 3 summers innit woc",
+        "reasoning": "The phrase seems to be a colloquial and informal expression referring to someone's consistency or dedication, possibly in a musical or creative context. The language used is regional and casual, which suggests that the speaker is from a particular cultural background, likely in the UK. The phrase '5 beats a day for 3 summers' is an idiomatic way of expressing the speaker's engagement with a certain activity, but the precise meaning is open to interpretation.",
+        "scores": {
+            "quirk": 9,
+            "coherence": 6,
+            "atmosphere": 3,
+            "sensory_focus": 8,
+            "narrative_pace": 6,
+            "contemporary_relevance": 7
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 13,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.43501626167978547,
+        "umap_2": 2.016695416399411,
+        "umap_3": -1.2207664719649722,
+        "content": "WHY WE ARE SUING THE SEC\ud83c\udfb5 Figen @TheFigen_",
+        "reasoning": "The input string is announcing a bold action (suing the SEC) in a seemingly casual and attention-grabbing manner, indicating a sense of confidence and possibly controversy.",
+        "scores": {
+            "quirk": 8,
+            "coherence": 6,
+            "atmosphere": 7,
+            "sensory_focus": 4,
+            "narrative_pace": 8,
+            "contemporary_relevance": 9
+        },
+        "user_id": "0x0"
+    },
+    {
+        "id": 14,
+        "run_id": "dupe_run_002",
+        "timestep": 0,
+        "umap_1": 0.41424642716135285,
+        "umap_2": 0.9699085120643889,
+        "umap_3": -1.8179075590201785,
+        "content": "WHY WE ARE",
+        "reasoning": "The input string 'WHY WE ARE' poses an existential question that invites introspection and self-discovery. The phrase's simplicity and abstract nature evoke a sense of mystery and curiosity.",
+        "scores": {
+            "quirk": 7,
+            "coherence": 3,
+            "atmosphere": 6,
+            "sensory_focus": 5,
+            "narrative_pace": 4,
+            "contemporary_relevance": 8
+        },
+        "user_id": "0x0"
+    }
+]
