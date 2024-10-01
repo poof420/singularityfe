@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo } from 'react'
 import { Canvas } from '@react-three/fiber'
-import { Text } from '@react-three/drei'
+import { Text, Line } from '@react-three/drei'
 import * as THREE from 'three'
 
 interface Point {
@@ -56,24 +56,22 @@ function Point({ point }: { point: Point }) {
 }
 
 function Connection({ connection, points }: { connection: Connection; points: Point[] }) {
-  const from = points.find(p => p.id === connection.from)
-  const to = points.find(p => p.id === connection.to)
-
-  if (!from || !to) return null
-
-  const lineGeometry = useMemo(() => {
-    const geometry = new THREE.BufferGeometry()
-    const vertices = new Float32Array([from.x, from.y, 0, to.x, to.y, 0])
-    geometry.setAttribute('position', new THREE.BufferAttribute(vertices, 3))
-    return geometry
-  }, [from, to])
-
-  return (
-    <line geometry={lineGeometry}>
-      <lineBasicMaterial color={connection.color} linewidth={connection.thickness} />
-    </line>
-  )
-}
+    const from = points.find(p => p.id === connection.from)
+    const to = points.find(p => p.id === connection.to)
+  
+    if (!from || !to) return null
+  
+    return (
+      <Line
+        points={[
+          [from.x, from.y, 0],
+          [to.x, to.y, 0],
+        ]}
+        color={connection.color}
+        lineWidth={connection.thickness * 100} // Adjust scaling if needed
+      />
+    )
+  }
 
 export default function DynamicGraph() {
   const [points, setPoints] = useState<Point[]>(initialPoints)
