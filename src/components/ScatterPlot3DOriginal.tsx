@@ -235,7 +235,8 @@ function DataPoints({
           {point.shape === 'tetrahedron' && (
             <tetrahedronGeometry args={[point.size * 0.1, 0]} />
           )}
-          <meshStandardMaterial
+          {/* Use meshBasicMaterial with wireframe */}
+          <meshBasicMaterial
             color={
               point.data === selectedPoint
                 ? 'red'
@@ -243,12 +244,12 @@ function DataPoints({
                 ? 'yellow'
                 : point.color
             }
+            wireframe={true}
           />
         </mesh>
       ))}
       {/* Render lines and score differences */}
       {lines}
-      {/* Removed OverlayInfo from here */}
     </>
   )
 }
