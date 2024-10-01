@@ -120,7 +120,15 @@ function Points({ onPointSelect }: { onPointSelect: (point: DataPoint | null) =>
 }
 
 function CubicGrid() {
-  // ... (CubicGrid implementation remains the same)
+  // You can implement the grid using Three.js helpers or custom geometries
+  return (
+    <group>
+      {/* For example, using the GridHelper from Three.js */}
+      <gridHelper args={[20, 20, 0x888888, 0x444444]} />
+      {/* Optionally, add axes for better visualization */}
+      <axesHelper args={[10]} />
+    </group>
+  )
 }
 
 export default function ScatterPlot3D() {
