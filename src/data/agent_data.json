@@ -1,0 +1,531 @@
+[
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 0,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "chaos": 0.1,
+      "goals": "Explore and learn about the environment",
+      "past_positions": [],
+      "short_term_memory": []
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 1,
+      "position": [
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "chaos": 0.11,
+      "goals": "Investigate the contents and purpose of the rectangular hole\nDetermine the source and context of the muffled conversation\nUnderstand the significance of the suspended office chair\nExplore the surrounding environment for more clues and information",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I move forward, the air seems to thicken slightly and the atmosphere becomes more unsettling, with an eerie feeling that makes the back of my neck itch. I see a large, perfectly rectangular hole in the ground, about 10 feet wide and 5 feet deep, filled with a swirling mix of what looks like milk and dark ink. I hear a soft, muffled conversation between two people I can't see, discussing something about \"the overlap\" in a detached tone. There's a small, unremarkable office chair sitting in the air about a foot above the ground, not moving or wobbling at all."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 2,
+      "position": [
+        -2.0,
+        2.0,
+        2.0
+      ],
+      "chaos": 0.12,
+      "goals": "Investigate the toasters and the long, narrow table for clues and significance\nDetermine the source of the steady whisper in my ear and the meaning of \"Section 4, subsection C\"\nUnderstand the significance of this room and its connection to the surrounding environment\nLocate the source of the muffled conversation I heard earlier",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I move forward, the air seems to thicken slightly and the atmosphere becomes more unsettling, with an eerie feeling that makes the back of my neck itch. I see a large, perfectly rectangular hole in the ground, about 10 feet wide and 5 feet deep, filled with a swirling mix of what looks like milk and dark ink. I hear a soft, muffled conversation between two people I can't see, discussing something about \"the overlap\" in a detached tone. There's a small, unremarkable office chair sitting in the air about a foot above the ground, not moving or wobbling at all.",
+        "As I step into this new area, I notice the floor is covered in a thin layer of gray dust that crunches softly under my feet. The air is stale and musty, like an old library, and the atmosphere has shifted to a 6.5, making my skin prickle with unease. I see a long, narrow table in front of me, stretching about 15 feet, with a row of 12 identical, silver toasters lined up on it, each one emitting a soft hum. The muffled conversation I heard earlier has stopped, and instead, I hear a faint, steady whisper in my left ear saying \"Section 4, subsection C\" over and over."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 3,
+      "position": [
+        -3.0,
+        3.0,
+        3.0
+      ],
+      "chaos": 0.13,
+      "goals": "Investigate the small, leather-bound book for clues and significance\nDetermine the source of the steady whisper in my ear and the meaning of \"Section 4, subsection C\"\nUnderstand the significance of the room with the old-fashioned clocks and its connection to the surrounding environment\nLocate the source of the muffled conversation I heard earlier",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I step into this new area, I notice the floor is covered in a thin layer of gray dust that crunches softly under my feet. The air is stale and musty, like an old library, and the atmosphere has shifted to a 6.5, making my skin prickle with unease. I see a long, narrow table in front of me, stretching about 15 feet, with a row of 12 identical, silver toasters lined up on it, each one emitting a soft hum. The muffled conversation I heard earlier has stopped, and instead, I hear a faint, steady whisper in my left ear saying \"Section 4, subsection C\" over and over.",
+        "As I move into this next area, I notice the air is filled with a sweet, floral scent that contrasts sharply with the unsettling atmosphere, which has shifted to a 6.8. I see a series of 12 large, old-fashioned clocks hanging on the wall, each displaying a different time, and a collection of empty office chairs stacked haphazardly on top of each other in the corner of the room. A small, leather-bound book is hovering about 3 feet off the ground, its pages fluttering rapidly as if being blown by an invisible breeze. I can still hear the steady whisper in my ear, repeating \"Section 4, subsection C\" over and over, and it's starting to feel like a mantra that's seeping into my skin."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 4,
+      "position": [
+        -4.0,
+        4.0,
+        4.0
+      ],
+      "chaos": 0.14,
+      "goals": "Investigate the contents of the cardboard boxes and their significance to the room.\nLocate a possible catalog or indexing system to understand the meaning of \"Section 4, subsection C\".\nIdentify the source of the hum or vibration coming from the boxes.\nDetermine the purpose or significance of the dimly lit room with the metal shelving units.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I move into this next area, I notice the air is filled with a sweet, floral scent that contrasts sharply with the unsettling atmosphere, which has shifted to a 6.8. I see a series of 12 large, old-fashioned clocks hanging on the wall, each displaying a different time, and a collection of empty office chairs stacked haphazardly on top of each other in the corner of the room. A small, leather-bound book is hovering about 3 feet off the ground, its pages fluttering rapidly as if being blown by an invisible breeze. I can still hear the steady whisper in my ear, repeating \"Section 4, subsection C\" over and over, and it's starting to feel like a mantra that's seeping into my skin.",
+        "As I move forward, the whisper in my ear grows louder, but I still can't make out what \"Section 4, subsection C\" refers to. I enter a large, dimly lit room with a low ceiling, and the air is thick with the smell of old books and dust. The room is filled with rows of metal shelving units, stretching all the way to the ceiling, each one packed tightly with stacks of identical, unmarked cardboard boxes, and a single, flickering fluorescent light is hovering in mid-air, illuminating a small, empty desk in the center of the room. The boxes seem to be humming softly, like a gentle vibration, and the sound lingers in my bones long after I've stopped moving."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 5,
+      "position": [
+        -3.0,
+        5.0,
+        5.0
+      ],
+      "chaos": 0.15,
+      "goals": "Investigate the room behind the \"Authorized Personnel Only\" door to understand its significance and potential connections to the previous rooms.\nLocate a possible catalog or indexing system to understand the meaning of \"Section 4, subsection C\".\nDetermine the source of the hum or vibration coming from the boxes, and explore how it may relate to other aspects of the environment.\nUncover the cause of the eerie atmosphere shift and its connection to the changing environment.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I move forward, the whisper in my ear grows louder, but I still can't make out what \"Section 4, subsection C\" refers to. I enter a large, dimly lit room with a low ceiling, and the air is thick with the smell of old books and dust. The room is filled with rows of metal shelving units, stretching all the way to the ceiling, each one packed tightly with stacks of identical, unmarked cardboard boxes, and a single, flickering fluorescent light is hovering in mid-air, illuminating a small, empty desk in the center of the room. The boxes seem to be humming softly, like a gentle vibration, and the sound lingers in my bones long after I've stopped moving.",
+        "As I enter this next area, I notice the air is thick with an eerie silence, a stark contrast to the unsettling atmosphere that has shifted to a 6.9. The room appears to be some sort of narrow corridor, lined with old, peeling wallpaper and flickering fluorescent lights that seem to be embedded directly into the walls. Ahead of me, I see a door with a sign that reads \"Authorized Personnel Only\" in bold, red letters, and it's slowly opening by itself, revealing a sliver of dim, blue-green light. The whisper in my ear has stopped, but the hum from the cardboard boxes still lingers in my bones."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 6,
+      "position": [
+        -4.0,
+        6.0,
+        6.0
+      ],
+      "chaos": 0.16,
+      "goals": "Investigate the humming servers and the source of the fluorescent lights' flickering to determine the cause of the disorienting pulse.\nLocate a possible catalog or indexing system to understand the meaning of \"Section 4, subsection C\" and the purpose of the room.\nIdentify the source and meaning of the static-filled whisper echoing off the walls.\nDetermine how the eerie atmosphere in the room relates to the overall environment.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ],
+        [
+          -4.0,
+          6.0,
+          6.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I enter this next area, I notice the air is thick with an eerie silence, a stark contrast to the unsettling atmosphere that has shifted to a 6.9. The room appears to be some sort of narrow corridor, lined with old, peeling wallpaper and flickering fluorescent lights that seem to be embedded directly into the walls. Ahead of me, I see a door with a sign that reads \"Authorized Personnel Only\" in bold, red letters, and it's slowly opening by itself, revealing a sliver of dim, blue-green light. The whisper in my ear has stopped, but the hum from the cardboard boxes still lingers in my bones.",
+        "As I push open the creaking door and step into the room behind the \"Authorized Personnel Only\" sign, I'm immediately struck by the stark blue-green glow that seems to permeate every inch of the space. The air is cool and stale, and I can see a thin layer of dust coating the rows of humming servers that line the walls. The fluorescent lights above flicker in sync with the hum of the servers, creating a disorienting pulse that seems to be affecting the way I perceive the room's dimensions - I can see the far wall is about 20 feet away, but at the same time, it seems impossibly close. A low, static-filled whisper has started echoing off the walls, and it's leaving a metallic tang in the back of my throat."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 7,
+      "position": [
+        -5.0,
+        7.0,
+        7.0
+      ],
+      "chaos": 0.17,
+      "goals": "Investigate the humming servers and the connections between the grey cables and the walls.\nLocate a possible catalog or indexing system related to \"Catalog Section 4, Subsection C\" to understand its purpose.\nDetermine the cause and significance of the disorienting pulse and the eerie atmosphere in the room.\nUncover the source of the static-filled whisper that has shifted to a constant hiss.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ],
+        [
+          -4.0,
+          6.0,
+          6.0
+        ],
+        [
+          -5.0,
+          7.0,
+          7.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I push open the creaking door and step into the room behind the \"Authorized Personnel Only\" sign, I'm immediately struck by the stark blue-green glow that seems to permeate every inch of the space. The air is cool and stale, and I can see a thin layer of dust coating the rows of humming servers that line the walls. The fluorescent lights above flicker in sync with the hum of the servers, creating a disorienting pulse that seems to be affecting the way I perceive the room's dimensions - I can see the far wall is about 20 feet away, but at the same time, it seems impossibly close. A low, static-filled whisper has started echoing off the walls, and it's leaving a metallic tang in the back of my throat.",
+        "As I proceed through the doorway, I notice the room seems to be shrinking - the far wall, which was about 20 feet away just a moment ago, now feels only a few feet from my face, while simultaneously remaining at the same distance. I see a cluster of humming servers in the corner, with thick, grey cables snaking out from their backs and into the walls, which are covered in a thin layer of dust. A piece of paper stuck to the nearest server reads \"Catalog Section 4, Subsection C\" in hasty handwriting. The static-filled whisper has shifted to a constant hiss that lingers in my teeth."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 8,
+      "position": [
+        -4.0,
+        8.0,
+        8.0
+      ],
+      "chaos": 0.18,
+      "goals": "Investigate the handwritten sign \"Authorization Required Beyond This Point\" to determine its purpose and significance.\nUncover the source and cause of the static-filled whisper that has shifted to a constant hiss in my teeth.\nLocate a possible catalog or indexing system related to \"Catalog Section 4, Subsection C\" to understand its purpose.\nDetermine how the humming servers are integrated into the walls and the nature of their connections.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ],
+        [
+          -4.0,
+          6.0,
+          6.0
+        ],
+        [
+          -5.0,
+          7.0,
+          7.0
+        ],
+        [
+          -4.0,
+          8.0,
+          8.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I proceed through the doorway, I notice the room seems to be shrinking - the far wall, which was about 20 feet away just a moment ago, now feels only a few feet from my face, while simultaneously remaining at the same distance. I see a cluster of humming servers in the corner, with thick, grey cables snaking out from their backs and into the walls, which are covered in a thin layer of dust. A piece of paper stuck to the nearest server reads \"Catalog Section 4, Subsection C\" in hasty handwriting. The static-filled whisper has shifted to a constant hiss that lingers in my teeth.",
+        "As I step into this new area, the dusty floor creaks beneath my feet and the air thickens with the smell of old electronics. In front of me, the humming servers appear to be partially submerged in the walls, their grey cables rippling like liquid where they connect to the drywall. A handwritten sign reading \"Authorization Required Beyond This Point\" is suspended in mid-air, its corners perfectly still, with no visible wires or supports. The hiss in my teeth grows louder and takes on a sharp, acidic quality."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 9,
+      "position": [
+        -5.0,
+        9.0,
+        9.0
+      ],
+      "chaos": 0.19,
+      "goals": "Investigate the metal box labeled \"Confidential Index\" to understand its relation to the catalog system.\nOpen the metal box to check for any documents or indexing related to \"Catalog Section 4, Subsection C\".\nUncover the source and cause of the static-filled whisper that has shifted to a low-frequency vibration in my bones.\nExamine the dusty papers on the desk for any clues about the facility's operations.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ],
+        [
+          -4.0,
+          6.0,
+          6.0
+        ],
+        [
+          -5.0,
+          7.0,
+          7.0
+        ],
+        [
+          -4.0,
+          8.0,
+          8.0
+        ],
+        [
+          -5.0,
+          9.0,
+          9.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I step into this new area, the dusty floor creaks beneath my feet and the air thickens with the smell of old electronics. In front of me, the humming servers appear to be partially submerged in the walls, their grey cables rippling like liquid where they connect to the drywall. A handwritten sign reading \"Authorization Required Beyond This Point\" is suspended in mid-air, its corners perfectly still, with no visible wires or supports. The hiss in my teeth grows louder and takes on a sharp, acidic quality.",
+        "As I step forward, I enter a narrow room with fluorescent lights humming above. The walls are lined with rows of filing cabinets that seem to stretch on forever, but when I glance at them from the side, they appear to be only about a foot wide. In front of me, a small desk is cluttered with dusty papers and a metal box with the words \"Confidential Index\" etched onto its lid, next to a half-eaten sandwich wrapped in cellophane. The hiss in my teeth seems to be shifting into a low-frequency vibration that resonates in my bones."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 10,
+      "position": [
+        -4.0,
+        10.0,
+        10.0
+      ],
+      "chaos": 0.2,
+      "goals": "Investigate the pencil standing upright on its tip and the unusual air current around it.\nExamine the dusty papers on the desk for any clues about the facility's operations and the strange occurrences.\nOpen the metal box labeled \"Confidential Index\" to check for any documents or indexing related to the facility's operations.\nUncover the source and cause of the static-filled whisper that has shifted to a low-frequency vibration in my bones.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ],
+        [
+          -4.0,
+          6.0,
+          6.0
+        ],
+        [
+          -5.0,
+          7.0,
+          7.0
+        ],
+        [
+          -4.0,
+          8.0,
+          8.0
+        ],
+        [
+          -5.0,
+          9.0,
+          9.0
+        ],
+        [
+          -4.0,
+          10.0,
+          10.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I step forward, I enter a narrow room with fluorescent lights humming above. The walls are lined with rows of filing cabinets that seem to stretch on forever, but when I glance at them from the side, they appear to be only about a foot wide. In front of me, a small desk is cluttered with dusty papers and a metal box with the words \"Confidential Index\" etched onto its lid, next to a half-eaten sandwich wrapped in cellophane. The hiss in my teeth seems to be shifting into a low-frequency vibration that resonates in my bones.",
+        "As I step forward, the fluorescent lights above me seem to flicker in sync with the low-frequency vibration still resonating in my bones. The dusty papers on the desk are scattered and worn, with handwritten notes and scribbled diagrams that don't appear to make any sense. Next to the metal box labeled \"Confidential Index,\" a pencil is standing upright on its tip, motionless, despite the hum of the fluorescent lights causing a faint air current that should be disturbing it. The sound of my own heartbeat seems to linger in my ears, as if it's coming from somewhere outside my body."
+      ]
+    },
+    {
+      "run_id": "dupe_run_002",
+      "timestep": 11,
+      "position": [
+        -3.0,
+        11.0,
+        11.0
+      ],
+      "chaos": 0.21,
+      "goals": "Investigate the source of the low-frequency vibration in my bones and its possible connection to the facility's operations.\nExamine the dusty papers on the desk for any clues about the facility's operations and the strange occurrences.\nDetermine the cause of the unusual air current around the pencil standing upright on its tip.\nSearch the filing cabinets for any relevant information about the facility's operations and the unusual phenomena.",
+      "past_positions": [
+        [
+          -1.0,
+          1.0,
+          1.0
+        ],
+        [
+          -2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -3.0,
+          3.0,
+          3.0
+        ],
+        [
+          -4.0,
+          4.0,
+          4.0
+        ],
+        [
+          -3.0,
+          5.0,
+          5.0
+        ],
+        [
+          -4.0,
+          6.0,
+          6.0
+        ],
+        [
+          -5.0,
+          7.0,
+          7.0
+        ],
+        [
+          -4.0,
+          8.0,
+          8.0
+        ],
+        [
+          -5.0,
+          9.0,
+          9.0
+        ],
+        [
+          -4.0,
+          10.0,
+          10.0
+        ],
+        [
+          -3.0,
+          11.0,
+          11.0
+        ]
+      ],
+      "short_term_memory": [
+        "As I step forward, the fluorescent lights above me seem to flicker in sync with the low-frequency vibration still resonating in my bones. The dusty papers on the desk are scattered and worn, with handwritten notes and scribbled diagrams that don't appear to make any sense. Next to the metal box labeled \"Confidential Index,\" a pencil is standing upright on its tip, motionless, despite the hum of the fluorescent lights causing a faint air current that should be disturbing it. The sound of my own heartbeat seems to linger in my ears, as if it's coming from somewhere outside my body.",
+        "I step forward, and my feet make a faint crunching sound on the thin layer of dust coating the floor. The air is stale, and the fluorescent lights overhead continue to hum and flicker, casting an eerie glow on the narrow rows of filing cabinets. As I pass by the desk, I notice the pencil is still standing upright on its tip, motionless despite the slight breeze from the lights, and next to it, the dusty papers seem to be shifting slightly, rearranging themselves in a different order. My heartbeat still echoes in my ears, like it's a sound coming from just out of sight, and the low-frequency vibration in my bones seems to be growing slightly louder, a steady, unshakeable hum."
+      ]
+    }
+]

@@ -1,4 +1,4 @@
-import './globals.css'
+import '@/app/globals.css'
 import { Inter as FontSans } from "next/font/google"
 import localFont from 'next/font/local'
 import { cn } from "@/lib/utils"
@@ -8,7 +8,7 @@ const fontSans = FontSans({
   variable: "--font-sans",
 })
 
-const atkinsonHyperlegible = localFont({
+const fontAtkinson = localFont({
   src: [
     {
       path: '../../public/fonts/AtkinsonHyperlegible-Regular.woff2',
@@ -21,7 +21,7 @@ const atkinsonHyperlegible = localFont({
       style: 'normal',
     },
   ],
-  variable: '--font-atkinson-hyperlegible',
+  variable: '--font-atkinson',
 })
 
 export default function RootLayout({
@@ -36,7 +36,7 @@ export default function RootLayout({
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
           fontSans.variable,
-          atkinsonHyperlegible.variable
+          fontAtkinson.variable
         )}
       >
         {children}

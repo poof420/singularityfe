@@ -1,58 +1,60 @@
-singularity-front-end/
-├── .next/
-├── node_modules/
+# Project File Structure
+
+This file structure represents a Next.js project with various components, utilities, and assets organized for easy access and maintainability.
+
+```plaintext
+.
 ├── public/
 │   ├── fonts/
+│   │   ├── AtkinsonHyperlegible-Bold.woff2
 │   │   ├── AtkinsonHyperlegible-Regular.woff2
-│   │   └── AtkinsonHyperlegible-Bold.woff2
-│   ├── images/
-│   └── models/  # For 3D models used with Three.js
+│   │   ├── GeistMonoVF.woff
+│   │   └── GeistVF.woff
+│   └── grid.png
+│
 ├── src/
 │   ├── app/
-│   │   ├── (auth)/
-│   │   │   ├── login/
-│   │   │   │   └── page.tsx
-│   │   │   └── register/
-│   │   │       └── page.tsx
-│   │   ├── dashboard/
+│   │   ├── 3dalt/
 │   │   │   └── page.tsx
-│   │   ├── simulation/
+│   │   ├── agent/
 │   │   │   └── page.tsx
-│   │   ├── globals.css
-│   │   ├── layout.tsx
-│   │   └── page.tsx
-│   ├── components/
-│   │   ├── ui/  # shadcn/ui components
-│   │   │   ├── button.tsx
-│   │   │   ├── card.tsx
-│   │   │   └── ... (other shadcn/ui components)
-│   │   ├── three/  # Three.js components
-│   │   │   ├── agent-view.tsx
-│   │   │   ├── user-view.tsx
-│   │   │   └── environment.tsx
-│   │   ├── layout/
-│   │   │   ├── header.tsx
-│   │   │   ├── footer.tsx
-│   │   │   └── sidebar.tsx
-│   │   └── shared/
-│   │       ├── retro-container.tsx
-│   │       └── retro-button.tsx
-│   ├── hooks/
-│   │   ├── use-simulation.ts
-│   │   └── use-agent.ts
-│   ├── lib/
-│   │   ├── utils.ts
-│   │   └── fonts.ts
-│   ├── styles/
-│   │   └── retro-theme.css
-│   └── types/
-│       ├── agent.d.ts
-│       └── simulation.d.ts
+│   │   ├── leaderline/
+│   │   │   └── page.tsx
+│   │   ├── scribbles/
+│   │   │   ├── page.tsx
+│   │   │   ├── favicon.ico
+│   │   │   ├── globals.css
+│   │   │   ├── layout.tsx
+│   │   │   └── page.tsx
+│   │   └── components/
+│       ├── ui/
+│       │   ├── DynamicPath.tsx
+│       │   ├── OverlayInfo.tsx
+│       │   ├── ScatterPlot3D.tsx
+│       │   ├── ScatterPlot3DOriginal.tsx
+│       │   ├── ScatterPlot3DwithLeaders.tsx
+│       │   ├── Scene.tsx
+│       │   └── ScribblePlot.tsx
+│       └── data/
+│           └── processed_map_results.json
+│
+├── lib/
+│   ├── utils.ts
+│   ├── types/
+│   │   └── types.ts
+│
+├── utils/
+│   └── loadData.ts
+│
 ├── .eslintrc.json
 ├── .gitignore
-├── next.config.js
+├── components.json
+├── filestructure.md
+├── next-env.d.ts
+├── next.config.mjs
+├── package-lock.json
 ├── package.json
-├── postcss.config.js
+├── postcss.config.mjs
 ├── README.md
-├── tailwind.config.js
+├── tailwind.config.ts
 └── tsconfig.json
