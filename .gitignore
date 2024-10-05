@@ -15,7 +15,9 @@
 /.next/
 /out/
 
+#virtual env
 /venv
+
 # production
 /build
 .env
